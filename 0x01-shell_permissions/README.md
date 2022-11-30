@@ -1,1 +1,1 @@
-6. Multiple permissions
+Write a script that adds execute permission to the owner and the group owner
